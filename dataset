@@ -1,0 +1,9 @@
+## 📂 Dataset
+
+The model is trained on the **Flickr8k Dataset**, which contains 8,000 images with 5 captions each.
+
+🔗 Download Dataset: https://www.kaggle.com/datasets/adityajn105/flickr8k
+
+📌 The dataset contains 8000 images, each with 5 captions describing the image.
+  
+⚠️ Note: Due to size limitations, the dataset is not included in this repository.
