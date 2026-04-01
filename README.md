@@ -2,23 +2,23 @@
 
 ## Table of Contents 📌 :
 
-* [Project Overview](#project-overview)
-* [Features](#features)
-* [Architecture](#architecture)
-* [System Capabilities](#system-capabilities)
-* [Tech Stack](#tech-stack)
-* [Prerequisites](#prerequisites)
-* [Installation](#installation)
-* [Configuration](#configuration)
-* [Usage](#usage)
-* [Dataset](#dataset)
-* [Learning Outcomes](#learning-outcomes)
-* [Future Improvements](#future-improvements)
-* [FAQ](#faq)
-* [Acknowledgements](#acknowledgements)
-* [Author](#author)
-* [License](#license)
-* [Changelog](#changelog)
+* [Project Overview](#project-overview-🚀)
+* [Features](#features-✨)
+* [Architecture](#architecture-🧠)
+* [System Capabilities](#system-capabilities-⚙️)
+* [Tech Stack](#tech-stack-🛠️)
+* [Prerequisites](#prerequisites-📋)
+* [Installation](#installation-⚙️)
+* [Configuration](#configuration-🔧)
+* [Usage](#usage-▶️)
+* [Dataset](#dataset-📂)
+* [Learning Outcomes](#learning-outcomes-📚)
+* [Future Improvements](#future-improvements-🚀)
+* [FAQ](#faq-❓)
+* [Acknowledgements](#acknowledgements-🙏)
+* [Author](#author-👨‍💻)
+* [License](#license-📜)
+* [Changelog](#changelog-📈)
 
 
 ## Project Overview 🚀 :
@@ -166,3 +166,11 @@ This project is licensed under the MIT License.
 ### v1.1
 - Added Streamlit UI
 - Improved caption generation using Top-K sampling
+
+## Support ⭐ :
+
+If you like this project:
+
+👉 Give it a ⭐ on GitHub
+
+👉 Share with others
